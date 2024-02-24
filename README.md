@@ -1,4 +1,4 @@
-Daily News App 📰
+<h1>Daily News App 📰</h1>
 
 Overview
 Daily News is a dynamic News Application developed for Android devices. It provides users with the latest news updates and ensures a seamless browsing experience within the app.
