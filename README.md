@@ -3,7 +3,7 @@
 <h3>Overview</h3>
 Daily News is a dynamic News Application developed for Android devices. It provides users with the latest news updates and ensures a seamless browsing experience within the app.
 
-Features
+<h3>Features</h3>
 -RecyclerView and Adapter: Efficiently display news articles using RecyclerView and Adapter.
 -Kotlin: Developed using Kotlin programming language.
 -Volley: Integrated Volley for seamless data fetching from APIs.
