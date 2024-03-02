@@ -14,7 +14,7 @@ In addition to honing my skills with RecyclerView, I expanded my knowledge of Ko
 
 Utilizing API libraries was a key aspect of this project, and I successfully integrated Volley for seamless data fetching. Moreover, to enhance the user experience and optimize image loading, I implemented the Glide library for efficient image processing. Furthermore, I incorporated Chrome Custom Tabs to ensure that news links open within the app, providing a seamless browsing experience for users.
 
-Key Learnings:
+<h3>Key Learnings:</h3>
 
 :)Learning RecyclerView and Adapter concepts, gaining insight into their collaborative functionality.
 :)Strengthened my understanding of Kotlin, reinforcing my programming skills.
