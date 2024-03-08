@@ -21,6 +21,6 @@ Utilizing API libraries was a key aspect of this project, and I successfully int
 :)Leveraged Volley for API integration and Glide for optimized image loading, enhancing app performance.
 :)Implemented Chrome Custom Tabs to seamlessly open news links within the app
 
-Contributing
+<h3>Contributing</h3>
 Contributions are welcome! Feel free to open issues and pull requests.
 
